@@ -1,0 +1,10 @@
+{
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 1,
+                "top": -1
+            }
+        }
+    }
+}
